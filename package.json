@@ -37,6 +37,7 @@
     "mocha": "^2.3.3",
     "opener": "^1.4.1",
     "phantomjs": "^1.9.18",
+    "publishr": "^1.0.0",
     "react-hot-loader": "^1.2.8",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.8.0",
